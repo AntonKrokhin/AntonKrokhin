@@ -1,6 +1,6 @@
 # Hi, I'm Anton! 👋
 
-### Data Analyst | SQL | Python | Tableau | A/B Testing
+### Data Analyst | SQL | Python | Tableau | Power BI | A/B Testing
 
 A results-driven Data Analyst with a solid foundational background in network engineering, technical support, and operations. Specialized in converting raw, fragmented tracking data into clear business metrics, building optimized analytical layers in SQL, and conducting thorough exploratory data analysis (EDA) with Python to drive data-informed decisions.
 
