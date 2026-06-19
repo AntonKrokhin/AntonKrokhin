@@ -35,4 +35,4 @@ A results-driven Data Analyst with a solid foundational background in network en
 
 * **LinkedIn:** [https://www.linkedin.com/in/anton-krokhin-04b20a216/](https://www.linkedin.com/in/anton-krokhin-04b20a216/)
 * **Email:** [antonio.krohin@gmail.com](mailto:antonio.krohin@gmail.com)
-* **Telegram:** [@doctor_6_6](@doctor_6_6)
+* **Telegram:** [@doctor_6_6](http://t.me/doctor_6_6)
