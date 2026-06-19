@@ -20,7 +20,7 @@ A results-driven Data Analyst with a solid foundational background in network en
 * 🧪 **[A/B Testing Tool](https://github.com/AntonKrokhin/a-b-testing-tool)** | `SQL` `Python (Statsmodels, SciPy)` `Tableau`
   * **Core Focus:** Engineered an automated tool to evaluate the statistical significance of A/B tests. The Python script automatically calculates conversion lifts, p-values, and Z-scores across test groups, streaming the final outcomes directly into an interactive Tableau dashboard for business stakeholders.
 
-* 🛍️ **[Online Store Sales Analytics](https://github.com/AntonKrokhin/online-store-sales-analytics)** | `SQL` `Python (Pandas, NumPy)` `Tableau`
+* 🛍️ **[Online Store Sales Analytics](https://github.com/AntonKrokhin/online-stores-sales-analytics)** | `SQL` `Python (Pandas, NumPy)` `Tableau`
   * **Core Focus:** Conducted an end-to-end e-commerce performance analysis. Extracted and aggregated raw transactional records via SQL, performed thorough data cleansing and EDA in Python, and constructed a comprehensive 3-page Tableau dashboard for executive tracking of global KPIs, regional trends, and acquisition channels.
 
 * 🛒 **[Sales Analytics with Python](https://github.com/AntonKrokhin/sales-analytics-with-python)** | `Python (Pandas, Seaborn)` `Google Colab`
