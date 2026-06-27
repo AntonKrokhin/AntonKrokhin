@@ -17,6 +17,9 @@ A results-driven Data Analyst with a solid foundational background in network en
 
 ### 🚀 Projects
 
+* 📊 [AI Business Analytics Dashboard](https://github.com/AntonKrokhin/ai-business-analytics-dashboard) | `SQL` `Python (Streamlit, Pandas, Plotly)` `Groq API`
+  * **Core Focus:** Developed an end-to-end BI and automation platform that extracts sales data via SQL, visualizes core KPIs, and leverages Generative AI for automated business reporting.
+
 * 🧪 **[A/B Testing Tool](https://github.com/AntonKrokhin/a-b-testing-tool)** | `SQL` `Python (Statsmodels, SciPy)` `Tableau`
   * **Core Focus:** Engineered an automated tool to evaluate the statistical significance of A/B tests. The Python script automatically calculates conversion lifts, p-values, and Z-scores across test groups, streaming the final outcomes directly into an interactive Tableau dashboard for business stakeholders.
 
